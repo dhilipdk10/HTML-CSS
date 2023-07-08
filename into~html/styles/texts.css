@@ -1,0 +1,21 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.Video-heading{
+font-size: 18px;
+font-weight: bold;
+width: 300px;
+line-height: 24px;
+margin-bottom: 10px;
+}  
+.Video-views{
+font-size: 16px;
+color: gray;
+margin-top: 0;
+} 
+.Video-author{
+font-size: 16px;
+color: gray;
+}
