@@ -43,6 +43,7 @@
     box-shadow: inset 1px 2px 3px
     rgba(0, 0, 0, 0.05);
     width: 0;
+    cursor: text;
 }
 .search-bar::placeholder{
     font-size: 16px;
@@ -65,12 +66,15 @@
 .upload-img{
     height: 24px;
     align-items: start;
+    cursor: pointer;
 }
 .youtube-apps-icon{
     height: 24px;
+    cursor: pointer;
 }
 .notifications-icon{
     height: 24px;
+    cursor: pointer;
 }
 .notification-container{
     position: relative;
@@ -90,6 +94,7 @@
 .profile-icon{
     height: 32px;
     border-radius: 16px;
+    cursor: pointer;
 }
 .search-button {
     height: 38px;
@@ -101,6 +106,7 @@
     border-radius: 0 18px 18px 0;
     margin-left: -1px;
     margin-right: 12px;
+    cursor: pointer;
 }
 .voice-button{
     height: 40px;
@@ -108,6 +114,7 @@
     border-radius: 20px;
     border: none;
     background-color: rgb(242, 242, 242);
+    cursor: pointer;
 }
 
 .channel-image{
